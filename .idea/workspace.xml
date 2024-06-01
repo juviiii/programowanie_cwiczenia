@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442b4d0e-1209-472c-8ee0-c417e5490338" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tasks_1/exc_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks_1/exc_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +49,10 @@
     "Python.exc_1.executor": "Run",
     "Python.exc_2.executor": "Run",
     "Python.exc_3.executor": "Run",
+    "Python.exc_4.executor": "Run",
+    "Python.exc_5.executor": "Run",
+    "Python.exc_6.executor": "Run",
+    "Python.exc_7.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -107,7 +107,47 @@
       <option name="project" value="LOCAL" />
       <updated>1717222833425</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test">
+      <option name="closed" value="true" />
+      <created>1717224760321</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1717224760321</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test">
+      <option name="closed" value="true" />
+      <created>1717225172510</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1717225172510</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <option name="closed" value="true" />
+      <created>1717225805983</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1717225805983</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test">
+      <option name="closed" value="true" />
+      <created>1717226037637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1717226037637</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test">
+      <option name="closed" value="true" />
+      <created>1717226064399</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1717226064399</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
