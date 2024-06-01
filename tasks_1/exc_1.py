@@ -4,3 +4,5 @@ while n < 5:
     n = n + 1
 else:
     print("koniec pętli")
+
+print("dodatkowa linia do dodania")

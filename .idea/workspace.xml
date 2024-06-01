@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442b4d0e-1209-472c-8ee0-c417e5490338" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tasks_1/exc_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/tasks_1/exc_1.py" afterDir="false" />
     </list>
@@ -19,6 +23,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "juviiii"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0d3186fd-7e35-4d03-a113-ee3d386d9ee2" />
+        <option name="url" value="https://github.com/juviiii/programowanie_cwiczenia.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -28,17 +46,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python._virtualenv.executor&quot;: &quot;Run&quot;,
-    &quot;Python.activate_this.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exc_1.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python._virtualenv.executor": "Run",
+    "Python.activate_this.executor": "Run",
+    "Python.exc_1.executor": "Run",
+    "Python.exc_2.executor": "Run",
+    "Python.exc_3.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,7 +91,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717215481942</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <option name="closed" value="true" />
+      <created>1717222663848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1717222663848</updated>
+    </task>
+    <task id="LOCAL-00004" summary="test">
+      <option name="closed" value="true" />
+      <created>1717222833425</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717222833425</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
