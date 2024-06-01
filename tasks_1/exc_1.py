@@ -1,1 +1,6 @@
-print("HI i'm testing out the git repo")
+n = 3
+while n < 5:
+    print("powtórzenie")
+    n = n + 1
+else:
+    print("koniec pętli")
