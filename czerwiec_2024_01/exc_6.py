@@ -8,6 +8,6 @@ for i in range(10):
     if number % 2 == 0:
         numbersEven += 1
 
-print("NUmbers you typed:", numbers)
+print("Numbers you've typed:", numbers)
 
 print(f"How many numbers of above are even: {numbersEven}")
