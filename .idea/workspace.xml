@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442b4d0e-1209-472c-8ee0-c417e5490338" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/test_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/unit_test_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/exc_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,15 +19,22 @@
   <component name="ExportToHTMLSettings">
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../programowanie_cwiczenia_sem2\exportToHTML" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "juviiii"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;juviiii&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -44,6 +54,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_file.py.executor": "Run",
+    "Python tests.Python tests in unit_test_1.py.executor": "Run",
     "Python._virtualenv.executor": "Run",
     "Python.activate_this.executor": "Run",
     "Python.exc_1.executor": "Run",
@@ -53,10 +65,12 @@
     "Python.exc_5.executor": "Run",
     "Python.exc_6.executor": "Run",
     "Python.exc_7.executor": "Run",
+    "Python.exc_8.executor": "Run",
+    "Python.test_file.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "vcs.Git"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -147,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717226064399</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="test">
+      <option name="closed" value="true" />
+      <created>1717226655961</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1717226655961</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
