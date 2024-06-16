@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442b4d0e-1209-472c-8ee0-c417e5490338" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/test_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/unit_test_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/exc_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/czerwiec_2024_01/exc_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade_4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/test_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,10 @@
     "Python.exc_7.executor": "Run",
     "Python.exc_8.executor": "Run",
     "Python.test_file.executor": "Run",
+    "Python.upgrade.executor": "Run",
+    "Python.upgrade_2.executor": "Run",
+    "Python.upgrade_3.executor": "Run",
+    "Python.upgrade_4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -169,7 +174,23 @@
       <option name="project" value="LOCAL" />
       <updated>1717226655961</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test">
+      <option name="closed" value="true" />
+      <created>1718463387806</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718463387806</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test">
+      <option name="closed" value="true" />
+      <created>1718463408529</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1718463408529</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
