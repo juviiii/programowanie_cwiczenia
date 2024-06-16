@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="442b4d0e-1209-472c-8ee0-c417e5490338" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/upgrade_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projekt_zaleczeniowy/savings_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/test_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/cwiczenia_2024_05/CWICZENIA_2024_06/test_file.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718463408529</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="test">
+      <option name="closed" value="true" />
+      <created>1718525098020</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718525098020</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
