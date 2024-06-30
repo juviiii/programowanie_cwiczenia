@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="442b4d0e-1209-472c-8ee0-c417e5490338" name="Changes" comment="test">
-      <change afterPath="$PROJECT_DIR$/projekt_zaleczeniowy/savings_calculator.py" afterDir="false" />
+    <list default="true" id="442b4d0e-1209-472c-8ee0-c417e5490338" name="Changes" comment="dodanie projektu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,7 @@
     "Python.exc_6.executor": "Run",
     "Python.exc_7.executor": "Run",
     "Python.exc_8.executor": "Run",
+    "Python.savings_calculator.executor": "Run",
     "Python.test_file.executor": "Run",
     "Python.upgrade.executor": "Run",
     "Python.upgrade_2.executor": "Run",
@@ -194,11 +194,20 @@
       <option name="project" value="LOCAL" />
       <updated>1718525098020</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="dodanie projektu">
+      <option name="closed" value="true" />
+      <created>1718525235088</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1718525235088</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="dodanie projektu" />
+    <option name="LAST_COMMIT_MESSAGE" value="dodanie projektu" />
   </component>
 </project>
